@@ -129,5 +129,4 @@ if (isset($user1_choice) && isset($user2_choice)) {
     </div>
     </div>
 </body>
-
 </html>
